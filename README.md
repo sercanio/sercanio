@@ -26,12 +26,6 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** who love
 
 ---
 
-## Projects
-
-- **React & ASP.NET App:** Building scalable full-stack applications using my favorite frameworks.
-
----
-
 ## Let's Connect 🌐
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/sercanates)
